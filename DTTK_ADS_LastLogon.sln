@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPS_ADM_ADS_LastLogon", "BPS_ADM_ADS_LastLogon\BPS_ADM_ADS_LastLogon.csproj", "{EB6599A7-D3CA-4E2B-939F-570733FEDF8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTTK_ADS_LastLogon", "DTTK_ADS_LastLogon\DTTK_ADS_LastLogon.csproj", "{EB6599A7-D3CA-4E2B-939F-570733FEDF8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

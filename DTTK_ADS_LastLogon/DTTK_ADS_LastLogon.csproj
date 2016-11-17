@@ -7,8 +7,8 @@
     <ProjectGuid>{EB6599A7-D3CA-4E2B-939F-570733FEDF8E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BPS_ADM_ADS_LastLogon</RootNamespace>
-    <AssemblyName>BPS_ADM_ADS_LastLogon</AssemblyName>
+    <RootNamespace>DTTK_ADS_LastLogon</RootNamespace>
+    <AssemblyName>DTTK_ADS_LastLogon</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
